@@ -8,7 +8,7 @@ Ela descreve arquitetura, integrações, comportamento do agente, segurança, co
 
 ### Instalação em 3 passos
 
-1. Copie `skills/prospeccao-whatsapp-ia` para a pasta de skills reconhecida pelo seu ambiente Claude Code.
+1. Baixe o repositório (`git clone`) e copie a pasta `skills/prospeccao-whatsapp-ia` para `~/.claude/skills/` (Windows: `C:\Users\SEU_USUARIO\.claude\skills\`). Para usar só em um projeto, copie para `.claude/skills/` dentro dele.
 2. Reinicie a sessão ou recarregue as skills do ambiente.
 3. Peça ao Claude para usar `prospeccao-whatsapp-ia` ao planejar ou construir o sistema.
 
@@ -24,7 +24,7 @@ It covers architecture, integrations, agent behavior, security, compliance, and 
 
 ### Installation in 3 steps
 
-1. Copy `skills/prospeccao-whatsapp-ia` into the skills directory recognized by your Claude Code environment.
+1. Download the repository (`git clone`) and copy the `skills/prospeccao-whatsapp-ia` folder into `~/.claude/skills/` (Windows: `C:\Users\YOUR_USER\.claude\skills\`). To use it in a single project, copy it to `.claude/skills/` inside that project.
 2. Restart the session or reload the environment's skills.
 3. Ask Claude to use `prospeccao-whatsapp-ia` when planning or building the system.
 
